@@ -1,6 +1,7 @@
 # Skyrim Quests
 A checklist for all of the quests in Skyrim. 
 
+<img width="1323" alt="SkyrimQuests" src="https://user-images.githubusercontent.com/78488445/213317085-66b64a4d-43e6-43cf-a48d-cc268a2ab634.png">
 
 # Getting Started with Create React App
 
